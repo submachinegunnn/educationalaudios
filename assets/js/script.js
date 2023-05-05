@@ -61,7 +61,7 @@ const musicData = [
     artist: "Lucki",
     musicPath: "./sounds/sunset.mp3",
   },
-    {
+  {
     backgroundImage: "./assets/images/sessions.jpg",
     posterUrl: "./assets/images/sessions.jpg",
     title: "Sessions FT. Lucki",
@@ -69,6 +69,15 @@ const musicData = [
     year: 2021,
     artist: "Sharkey",
     musicPath: "./sounds/sessions.m4a",
+  },
+  {
+    backgroundImage: "./assets/images/heysiri.jpg",
+    posterUrl: "./assets/images/heysiri.jpg",
+    title: "Hey, Siri!",
+    album: "None",
+    year: 2023,
+    artist: "Iayze!",
+    musicPath: "./sounds/heysiri.mp3",
   },
 ];
 
