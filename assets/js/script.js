@@ -44,8 +44,8 @@ const musicData = [
     musicPath: "./sounds/leaveher.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-5.jpg",
-    posterUrl: "./assets/images/poster-5.jpg",
+    backgroundImage: "./assets/images/stoptheact.jpg",
+    posterUrl: "./assets/images/stoptheact.jpg",
     title: "Stop the Act",
     album: "None",
     year: 2021,
