@@ -93,9 +93,18 @@ const musicData = [
     posterUrl: "./assets/images/teenx.jpg",
     title: "Teen X",
     album: "Teen X",
-    year: 2023,
+    year: 2021,
     artist: "Ken Carson",
     musicPath: "./sounds/teenx.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/yale.jpg",
+    posterUrl: "./assets/images/yale.jpg",
+    title: "Yale",
+    album: "Teen X",
+    year: 2021,
+    artist: "Ken Carson",
+    musicPath: "./sounds/yale.mp3",
   },
 ];
 
