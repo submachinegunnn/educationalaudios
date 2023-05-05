@@ -8,8 +8,8 @@
 
 const musicData = [
   {
-    backgroundImage: "./assets/images/poster-1.jpg",
-    posterUrl: "./assets/images/poster-1.jpg",
+    backgroundImage: "./assets/images/iflookscouldkill.jpg",
+    posterUrl: "./assets/images/iflookscouldkill.jpg",
     title: "If looks could kill",
     album: "If looks could kill",
     year: 2023,
