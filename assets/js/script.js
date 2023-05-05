@@ -17,8 +17,8 @@ const musicData = [
     musicPath: "./sounds/iflookscouldkill.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-2.jpg",
-    posterUrl: "./assets/images/poster-2.jpg",
+    backgroundImage: "./assets/images/nostylist.jpg",
+    posterUrl: "./assets/images/nostylist.jpg",
     title: "No stylist",
     album: "No Stylist",
     year: 2022,
