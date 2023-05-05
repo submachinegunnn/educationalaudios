@@ -92,7 +92,7 @@ const musicData = [
     backgroundImage: "./assets/images/teenx.jpg",
     posterUrl: "./assets/images/teenx.jpg",
     title: "Teen X",
-    album: "None",
+    album: "Teen X",
     year: 2023,
     artist: "Ken Carson",
     musicPath: "./sounds/teenx.mp3",
