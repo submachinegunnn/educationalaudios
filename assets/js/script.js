@@ -35,8 +35,8 @@ const musicData = [
     musicPath: "./sounds/60mgs.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-4.jpg",
-    posterUrl: "./assets/images/poster-4.jpg",
+    backgroundImage: "./assets/images/leaveher.jpg",
+    posterUrl: "./assets/images/leaveher.jpg",
     title: "Leave Her",
     album: "None",
     year: 2023,
