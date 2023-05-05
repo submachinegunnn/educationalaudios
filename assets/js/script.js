@@ -61,6 +61,15 @@ const musicData = [
     artist: "Lucki",
     musicPath: "./sounds/sunset.mp3",
   },
+    {
+    backgroundImage: "./assets/images/sessions.jpg",
+    posterUrl: "./assets/images/sessions.jpg",
+    title: "Sessions FT. Lucki",
+    album: "None",
+    year: 2021,
+    artist: "Sharkey",
+    musicPath: "./sounds/sessions.m4a",
+  },
 ];
 
 
