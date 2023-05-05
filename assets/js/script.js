@@ -26,8 +26,8 @@ const musicData = [
     musicPath: "./sounds/nostylist.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-3.jpg",
-    posterUrl: "./assets/images/poster-3.jpg",
+    backgroundImage: "./assets/images/60mgs.jpg",
+    posterUrl: "./assets/images/60mgs.jpg",
     title: "60 MGS (Unreleased)",
     album: "None",
     year: 2022,
