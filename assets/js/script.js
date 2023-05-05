@@ -79,6 +79,15 @@ const musicData = [
     artist: "Iayze!",
     musicPath: "./sounds/heysiri.mp3",
   },
+  {
+    backgroundImage: "./assets/images/gostyle.jpg",
+    posterUrl: "./assets/images/gostyle.jpg",
+    title: "GoStyle Freestyle 2023",
+    album: "None",
+    year: 2023,
+    artist: "Iayze!",
+    musicPath: "./sounds/gostyle.mp3",
+  },
 ];
 
 
