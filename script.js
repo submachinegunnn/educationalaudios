@@ -1,4 +1,4 @@
-const sounds = ["If Looks Could Kill - Destroy Lonely", "stop",];
+const sounds = ["iflookscouldkill", "stop",];
 
 sounds.forEach((sound) => {
   const btn = document.createElement("button");
