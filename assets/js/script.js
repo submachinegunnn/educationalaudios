@@ -53,8 +53,8 @@ const musicData = [
     musicPath: "./sounds/stoptheact.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-5.jpg",
-    posterUrl: "./assets/images/poster-5.jpg",
+    backgroundImage: "./assets/images/sunset.jpg",
+    posterUrl: "./assets/images/sunset.jpg",
     title: "Sunset",
     album: "None",
     year: 2021,
