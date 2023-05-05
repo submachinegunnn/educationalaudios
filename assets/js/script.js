@@ -107,8 +107,8 @@ const musicData = [
     musicPath: "./sounds/yale.mp3",
   },
   {
-    backgroundImage: "./assets/images/rocknroll.jpg",
-    posterUrl: "./assets/images/rocknroll.jpg",
+    backgroundImage: "./assets/images/rocknroll.jpeg",
+    posterUrl: "./assets/images/rocknroll.jpeg",
     title: "Rock N Roll",
     album: "Project X",
     year: 2022,
