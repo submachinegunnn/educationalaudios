@@ -88,6 +88,15 @@ const musicData = [
     artist: "Iayze!",
     musicPath: "./sounds/gostyle.mp3",
   },
+  {
+    backgroundImage: "./assets/images/teenx.jpg",
+    posterUrl: "./assets/images/teenx.jpg",
+    title: "Teen X",
+    album: "None",
+    year: 2023,
+    artist: "Ken Carson",
+    musicPath: "./sounds/teenx.mp3",
+  },
 ];
 
 
