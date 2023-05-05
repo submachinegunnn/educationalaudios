@@ -106,6 +106,15 @@ const musicData = [
     artist: "Ken Carson",
     musicPath: "./sounds/yale.mp3",
   },
+  {
+    backgroundImage: "./assets/images/rocknroll.jpg",
+    posterUrl: "./assets/images/rocknroll.jpg",
+    title: "Rock N Roll",
+    album: "Project X",
+    year: 2022,
+    artist: "Ken Carson",
+    musicPath: "./sounds/rocknroll.mp3",
+  },
 ];
 
 
