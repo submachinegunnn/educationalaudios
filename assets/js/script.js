@@ -241,6 +241,15 @@ const musicData = [
     artist: "Chavo",
     musicPath: "./sounds/michigan.mp3",
   },
+  {
+    backgroundImage: "./assets/images/akorn.jpg",
+    posterUrl: "./assets/images/akorn.jpg",
+    title: "Akorn",
+    album: "LA Vibes",
+    year: 2020,
+    artist: "Baby Smoove",
+    musicPath: "./sounds/akorn.mp3",
+  },
 ];
 
 
