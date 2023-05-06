@@ -151,6 +151,15 @@ const musicData = [
     artist: "KanKan",
     musicPath: "./sounds/gta.mp3",
   },
+  {
+    backgroundImage: "./assets/images/back2dabasics.jpg",
+    posterUrl: "./assets/images/back2dabasics.jpg",
+    title: "back 2 da basics",
+    album: "Nothing more Nothing LESS",
+    year: 2022,
+    artist: "summrs",
+    musicPath: "./sounds/back2dabasics.mp3",
+  },
 ];
 
 
