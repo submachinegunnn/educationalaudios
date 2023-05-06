@@ -124,6 +124,15 @@ const musicData = [
     artist: "Ken Carson",
     musicPath: "./sounds/ineedu.mp3",
   },
+  {
+    backgroundImage: "./assets/images/lifestyle.jpg",
+    posterUrl: "./assets/images/lifestyle.jpg",
+    title: "Lifestyle",
+    album: "Homixide Lifestyle",
+    year: 2023,
+    artist: "Homixide Gang",
+    musicPath: "./sounds/lifestyle.mp3",
+  },
 ];
 
 
