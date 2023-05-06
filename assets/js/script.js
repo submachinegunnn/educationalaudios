@@ -89,6 +89,15 @@ const musicData = [
     musicPath: "./sounds/gostyle.mp3",
   },
   {
+    backgroundImage: "./assets/images/nogta.jpg",
+    posterUrl: "./assets/images/nogta.jpg",
+    title: "No GTA",
+    album: "None",
+    year: 2022,
+    artist: "Iayze!",
+    musicPath: "./sounds/nogta.mp3",
+  },
+  {
     backgroundImage: "./assets/images/teenx.jpg",
     posterUrl: "./assets/images/teenx.jpg",
     title: "Teen X",
