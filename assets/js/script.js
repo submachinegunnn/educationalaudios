@@ -214,6 +214,15 @@ const musicData = [
     artist: "Baby Smoove",
     musicPath: "./sounds/losingmymind.mp3",
   },
+  {
+    backgroundImage: "./assets/images/losingmymindpt2.jpg",
+    posterUrl: "./assets/images/losingmymindpt2.jpg",
+    title: "Losing My Mind Pt.2",
+    album: "Im Still Perfect",
+    year: 2021,
+    artist: "Baby Smoove",
+    musicPath: "./sounds/losingmymindpt2.mp3",
+  },
 ];
 
 
