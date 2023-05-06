@@ -133,6 +133,15 @@ const musicData = [
     artist: "Homixide Gang",
     musicPath: "./sounds/lifestyle.mp3",
   },
+  {
+    backgroundImage: "./assets/images/gta.jpg",
+    posterUrl: "./assets/images/gta.jpg",
+    title: "GTA",
+    album: "None",
+    year: 2022,
+    artist: "KanKan",
+    musicPath: "./sounds/gta.mp3",
+  },
 ];
 
 
