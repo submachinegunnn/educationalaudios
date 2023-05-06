@@ -277,6 +277,15 @@ const musicData = [
     artist: "Tay-K",
     musicPath: "./sounds/megaman.mp3",
   },
+  {
+    backgroundImage: "./assets/images/bando.jpg",
+    posterUrl: "./assets/images/bando.jpg",
+    title: "Bando",
+    album: "Unreleased",
+    year: 2012,
+    artist: "PlayBoi Carti",
+    musicPath: "./sounds/bando.mp3",
+  },
 ];
 
 
