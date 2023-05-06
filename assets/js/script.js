@@ -187,6 +187,15 @@ const musicData = [
     artist: "Luh Tyler",
     musicPath: "./sounds/backflippin.mp3",
   },
+  {
+    backgroundImage: "./assets/images/floridawater.jpg",
+    posterUrl: "./assets/images/floridawater.jpg",
+    title: "Florida Water (Ft. Luh Tyler, Ski Mask The Slump God",
+    album: "None",
+    year: 2023,
+    artist: "Danny Towers & DJ Scheme",
+    musicPath: "./sounds/floridawater.mp3",
+  }
 ];
 
 
