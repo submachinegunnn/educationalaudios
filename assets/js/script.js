@@ -107,8 +107,8 @@ const musicData = [
     musicPath: "./sounds/yale.mp3",
   },
   {
-    backgroundImage: "./assets/images/rocknroll.jpeg",
-    posterUrl: "./assets/images/rocknroll.jpeg",
+    backgroundImage: "./assets/images/rocknroll.jpg",
+    posterUrl: "./assets/images/rocknroll.jpg",
     title: "Rock N Roll",
     album: "Project X",
     year: 2022,
@@ -116,8 +116,8 @@ const musicData = [
     musicPath: "./sounds/rocknroll.mp3",
   },
   {
-    backgroundImage: "./assets/images/ineedu.jpeg",
-    posterUrl: "./assets/images/ineedu.jpeg",
+    backgroundImage: "./assets/images/ineedu.jpg",
+    posterUrl: "./assets/images/ineedu.jpg",
     title: "i need u",
     album: "none",
     year: 2023,
