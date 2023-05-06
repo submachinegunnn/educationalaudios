@@ -250,6 +250,24 @@ const musicData = [
     artist: "Chavo",
     musicPath: "./sounds/michigan.mp3",
   },
+  {
+    backgroundImage: "./assets/images/murdershewrote.jpg",
+    posterUrl: "./assets/images/murdershewrote.jpg",
+    title: "Murder She Wrote",
+    album: "None",
+    year: 2018,
+    artist: "Tay-K",
+    musicPath: "./sounds/murdershewrote.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/meganman.jpg",
+    posterUrl: "./assets/images/megaman.jpg",
+    title: "Mega Man",
+    album: "None",
+    year: 2018,
+    artist: "Tay-K",
+    musicPath: "./sounds/megaman.mp3",
+  },
 ];
 
 
