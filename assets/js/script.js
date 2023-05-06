@@ -160,6 +160,15 @@ const musicData = [
     artist: "summrs",
     musicPath: "./sounds/back2dabasics.mp3",
   },
+  {
+    backgroundImage: "./assets/images/outtheway.jpg",
+    posterUrl: "./assets/images/outtheway.jpg",
+    title: "Out thë way",
+    album: "Lyfë",
+    year: 2023,
+    artist: "Yeat",
+    musicPath: "./sounds/outtheway.mp3",
+  },
 ];
 
 
