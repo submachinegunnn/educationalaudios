@@ -295,6 +295,15 @@ const musicData = [
     artist: "PlayBoi Carti",
     musicPath: "./sounds/cultclassic.mp3",
   },
+  {
+    backgroundImage: "./assets/images/talk2me.jpg",
+    posterUrl: "./assets/images/talk2me.jpg",
+    title: "Talk 2 Me",
+    album: "Unreleased",
+    year: 2021,
+    artist: "PlayBoi Carti",
+    musicPath: "./sounds/talk2me.mp3",
+  },
 ];
 
 
