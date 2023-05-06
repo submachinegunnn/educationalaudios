@@ -169,6 +169,15 @@ const musicData = [
     artist: "Yeat",
     musicPath: "./sounds/outtheway.mp3",
   },
+  {
+    backgroundImage: "./assets/images/lawandorder.jpg",
+    posterUrl: "./assets/images/lawandorder.jpg",
+    title: "Law & Order",
+    album: "None",
+    year: 2022,
+    artist: "Luh Tyler",
+    musicPath: "./sounds/lawandorder.mp3",
+  },
 ];
 
 
