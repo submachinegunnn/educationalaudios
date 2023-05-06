@@ -80,6 +80,15 @@ const musicData = [
     musicPath: "./sounds/ynot.mp3",
   },
   {
+    backgroundImage: "./assets/images/spaceboy.jpg",
+    posterUrl: "./assets/images/spaceboy.jpg",
+    title: "Space Boy",
+    album: "None",
+    year: 2022,
+    artist: "Lucki",
+    musicPath: "./sounds/spaceboy.mp3",
+  },
+  {
     backgroundImage: "./assets/images/heysiri.jpg",
     posterUrl: "./assets/images/heysiri.jpg",
     title: "Hey, Siri!",
