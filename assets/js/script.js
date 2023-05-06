@@ -56,7 +56,7 @@ const musicData = [
     backgroundImage: "./assets/images/sunset.jpg",
     posterUrl: "./assets/images/sunset.jpg",
     title: "Sunset",
-    album: "None",
+    album: "days be4 storm",
     year: 2021,
     artist: "Lucki",
     musicPath: "./sounds/sunset.mp3",
