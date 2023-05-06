@@ -233,15 +233,6 @@ const musicData = [
     musicPath: "./sounds/losingmymindpt2.mp3",
   },
   {
-    backgroundImage: "./assets/images/michigan.jpg",
-    posterUrl: "./assets/images/michigan.jpg",
-    title: "Michigan",
-    album: "Chavo's World",
-    year: 2020,
-    artist: "Chavo",
-    musicPath: "./sounds/michigan.mp3",
-  },
-  {
     backgroundImage: "./assets/images/akorn.jpg",
     posterUrl: "./assets/images/akorn.jpg",
     title: "Akorn",
@@ -249,6 +240,15 @@ const musicData = [
     year: 2020,
     artist: "Baby Smoove",
     musicPath: "./sounds/akorn.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/michigan.jpg",
+    posterUrl: "./assets/images/michigan.jpg",
+    title: "Michigan",
+    album: "Chavo's World",
+    year: 2020,
+    artist: "Chavo",
+    musicPath: "./sounds/michigan.mp3",
   },
 ];
 
