@@ -204,7 +204,16 @@ const musicData = [
     year: 2022,
     artist: "Baby Smoove",
     musicPath: "./sounds/tylerperry.mp3",
-  }
+  },
+  {
+    backgroundImage: "./assets/images/losingmymind.jpg",
+    posterUrl: "./assets/images/losingmymind.jpg",
+    title: "Losing My Mind",
+    album: "Im Still Serious",
+    year: 2019,
+    artist: "Baby Smoove",
+    musicPath: "./sounds/losingmymind.mp3",
+  },
 ];
 
 
