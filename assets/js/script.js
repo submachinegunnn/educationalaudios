@@ -71,6 +71,15 @@ const musicData = [
     musicPath: "./sounds/sessions.m4a",
   },
   {
+    backgroundImage: "./assets/images/ynot.jpg",
+    posterUrl: "./assets/images/ynot.jpg",
+    title: "Y NOT?",
+    album: "Flawless like me",
+    year: 2022,
+    artist: "Lucki",
+    musicPath: "./sounds/ynot.mp3",
+  },
+  {
     backgroundImage: "./assets/images/heysiri.jpg",
     posterUrl: "./assets/images/heysiri.jpg",
     title: "Hey, Siri!",
