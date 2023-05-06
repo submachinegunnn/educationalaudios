@@ -232,6 +232,15 @@ const musicData = [
     artist: "Baby Smoove",
     musicPath: "./sounds/losingmymindpt2.mp3",
   },
+  {
+    backgroundImage: "./assets/images/michigan.jpg",
+    posterUrl: "./assets/images/michigan.jpg",
+    title: "Michigan",
+    album: "Chavo's World",
+    year: 2020,
+    artist: "Chavo",
+    musicPath: "./sounds/michigan.mp3",
+  },
 ];
 
 
