@@ -178,6 +178,15 @@ const musicData = [
     artist: "Luh Tyler",
     musicPath: "./sounds/lawandorder.mp3",
   },
+  {
+    backgroundImage: "./assets/images/backflippin.jpg",
+    posterUrl: "./assets/images/backflippin.jpg",
+    title: "Back Flippin",
+    album: "None",
+    year: 2023,
+    artist: "Luh Tyler",
+    musicPath: "./sounds/backflippin.mp3",
+  },
 ];
 
 
