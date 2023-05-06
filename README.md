@@ -1,4 +1,4 @@
-# educationalaudios
+# Music Player
 
 I need ideas, lmk at https://forms.gle/UKpivg9xSNmUho5F6
 
