@@ -195,6 +195,15 @@ const musicData = [
     year: 2023,
     artist: "Danny Towers & DJ Scheme",
     musicPath: "./sounds/floridawater.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/tylerperry.jpg",
+    posterUrl: "./assets/images/tylerperry.jpg",
+    title: "Tyler Perry",
+    album: "None",
+    year: 2022,
+    artist: "Baby Smoove",
+    musicPath: "./sounds/tylerperry.mp3",
   }
 ];
 
