@@ -115,6 +115,15 @@ const musicData = [
     artist: "Ken Carson",
     musicPath: "./sounds/rocknroll.mp3",
   },
+  {
+    backgroundImage: "./assets/images/ineedu.jpeg",
+    posterUrl: "./assets/images/ineedu.jpeg",
+    title: "i need u",
+    album: "none",
+    year: 2023,
+    artist: "Ken Carson",
+    musicPath: "./sounds/ineedu.mp3",
+  },
 ];
 
 
