@@ -282,9 +282,18 @@ const musicData = [
     posterUrl: "./assets/images/bando.jpg",
     title: "Bando",
     album: "Unreleased",
-    year: 2012,
+    year: 2022,
     artist: "PlayBoi Carti",
     musicPath: "./sounds/bando.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/cultclassic.jpg",
+    posterUrl: "./assets/images/cultclassic.jpg",
+    title: "Cult Classic",
+    album: "Unreleased",
+    year: 2022,
+    artist: "PlayBoi Carti",
+    musicPath: "./sounds/cultclassic.mp3",
   },
 ];
 
