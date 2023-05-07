@@ -304,6 +304,15 @@ const musicData = [
     artist: "PlayBoi Carti",
     musicPath: "./sounds/talk2me.mp3",
   },
+  {
+    backgroundImage: "./assets/images/trance.jpg",
+    posterUrl: "./assets/images/trance.jpg",
+    title: "Trance (ft. Travis Scott, Young Thug)",
+    album: "Villians & Heroes",
+    year: 2023,
+    artist: "Metro Boomin",
+    musicPath: "./sounds/trance.mp3",
+  },
 ];
 
 
